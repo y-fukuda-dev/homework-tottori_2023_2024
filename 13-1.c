@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 #define N 1024
+// 修正しました
 
 struct data_set {
     double time;
